@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ganga J</h1>
-<h3 align="center">A passionate software engineer come data science enthusiast from India</h3>
+<h3 align="center">A passionate software engineer and data science enthusiast from India with over 2 years of experience.</h3>
 
 - 🔭 I’m currently working on **Data Acquisition Project**
 
